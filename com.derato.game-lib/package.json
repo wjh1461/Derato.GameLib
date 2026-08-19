@@ -1,0 +1,10 @@
+{
+  "name": "com.derato.game-lib",
+  "version": "0.1.0",
+  "displayName": "Game lib",
+  "description": "게임 개발용 라이브러리",
+  "unity": "6000.2",
+  "dependencies": {
+    "com.unity.addressables": "2.7.6"
+  }
+}
